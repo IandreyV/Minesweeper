@@ -1,0 +1,37 @@
+Main-Class: minesweeper.game.GameTest
+
+Name: minesweeper/gametest/
+Sealed: true
+Specification-Title: Classes to run the game
+Specification-Version: 1.0
+Specification-Vendor: My Company, Inc.
+Implementation-Title: minesweeper.gametest 
+Implementation-Version: build1
+Implementation-Vendor: My Company, Inc.
+
+Name: minesweeper/gui/
+Sealed: true
+Specification-Title: Main game classes
+Specification-Version: 1.0
+Specification-Vendor: My Company, Inc.
+Implementation-Title: minesweeper.gui 
+Implementation-Version: build1
+Implementation-Vendor: My Company, Inc.
+
+Name: minesweeper/model/
+Sealed: true
+Specification-Title: Game utility classes
+Specification-Version: 1.0
+Specification-Vendor: My Company, Inc.
+Implementation-Title: minesweeper.model 
+Implementation-Version: build1
+Implementation-Vendor: My Company, Inc.
+
+Name: minesweeper/resources/
+Sealed: true
+Specification-Title: Game resources classes
+Specification-Version: 1.0
+Specification-Vendor: My Company, Inc.
+Implementation-Title: minesweeper.resources 
+Implementation-Version: build1
+Implementation-Vendor: My Company, Inc.
